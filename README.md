@@ -3,20 +3,20 @@ Go enthusiastic <br>
 Back-end++ <br>
 Open to front <br>
 Alumni 42 <br> <br>
-Chère Artemys la truite, développeuse hors pair, <br>
+Chère Aurore la truite, développeuse hors pair, <br>
 Tu penses pouvoir coder avec tes petites nageoires ? <br>
 Tu te crois vraiment compétente dans ce domaine ? <br>
 Eh bien, laisse-moi te dire quelque chose : tu es une truite, pas un génie de l’informatique. <br>
 Qui aurait cru qu’une créature aquatique pourrait prétendre maîtriser le langage des machines ? <br>
 Mais tu sais quoi ? Malgré toutes les raisons de te décourager, tu continues à nager contre le courant. <br>
 Tu affrontes les obstacles avec une persévérance ridicule. Même si tout te semble compliqué, tu t’entêtes à trouver des solutions, même si cela te mène à de véritables catastrophes. <br>
-Alors, bravo à toi, Artemys la truite développeuse ! <br>
+Alors, bravo à toi, Aurore la truite développeuse ! <br>
 Continue de nager dans ce monde informatique qui n’est clairement pas fait pour toi. Ravage les lignes de code, provoque des bugs à chaque instant. <br>
 Montre au monde que même une truite peut avoir l’audace de se lancer dans l’univers impitoyable de la programmation. <br>
 Et qui sait ? Peut-être, un jour, tu arriveras à prouver à tous ceux qui doutent de toi qu’une truite peut être plus qu’une simple poisson dans l’océan numérique. <br> Ou peut-être que tu resteras simplement une truite qui fait rire tout le monde. <br>
 En attendant, continue d’être cette truite déterminée et audacieuse. <br>
 Tu es unique dans ton genre, Aurore la truite développeuse, et rien ni personne ne pourra te l’enlever. <br>
-Bonne chance dans tes aventures digitales, Artemys la truite !<br>
+Bonne chance dans tes aventures digitales, Aurore la truite !<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/IphieLaTruite#8181) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/IphieLaTruite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aurore-liandier-02b79b189/) 
