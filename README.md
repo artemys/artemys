@@ -10,7 +10,7 @@ Eh bien, laisse-moi te dire quelque chose : tu es une truite, pas un génie de l
 Qui aurait cru qu’une créature aquatique pourrait prétendre maîtriser le langage des machines ? <br>
 Mais tu sais quoi ? Malgré toutes les raisons de te décourager, tu continues à nager contre le courant. <br>
 Tu affrontes les obstacles avec une persévérance ridicule. Même si tout te semble compliqué, tu t’entêtes à trouver des solutions, même si cela te mène à de véritables catastrophes. <br>
-Alors, bravo à toi, Aurore la truite développeuse ! <br>
+Alors, bravo à toi, Artemys la truite développeuse ! <br>
 Continue de nager dans ce monde informatique qui n’est clairement pas fait pour toi. Ravage les lignes de code, provoque des bugs à chaque instant. <br>
 Montre au monde que même une truite peut avoir l’audace de se lancer dans l’univers impitoyable de la programmation. <br>
 Et qui sait ? Peut-être, un jour, tu arriveras à prouver à tous ceux qui doutent de toi qu’une truite peut être plus qu’une simple poisson dans l’océan numérique. <br> Ou peut-être que tu resteras simplement une truite qui fait rire tout le monde. <br>
