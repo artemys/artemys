@@ -1,5 +1,6 @@
 # 💫 About Me:
-Chère Aurore la truite, développeuse hors pair, <br>
+Chère Aurore la truite, <br>
+développeuse hors pair, <br>
 Tu penses pouvoir coder avec tes petites nageoires ? <br>
 Tu te crois vraiment compétente dans ce domaine ? <br>
 Eh bien, laisse-moi te dire quelque chose : tu es une truite, pas un génie de l’informatique. <br>
