@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">🐟 Aurore “IphieLaTruite” Liandier</h1>
-<h3 align="center">Backend Developer · Vue.js enjoyer · Professional bug summoner</h3>
+<h3 align="center">Backend Developer · Goland enjoyer · Professional bug summoner</h3>
 
 ---
 
