@@ -2,10 +2,6 @@
 <h1 align="center">🐟 Aurore “IphieLaTruite” Liandier</h1>
 <h3 align="center">Backend Developer · Vue.js enjoyer · Professional bug summoner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IphieLaTruite&style=flat-square&color=blue" alt="profile views"/>
-</p>
-
 ---
 
 ## 💫 About Me
