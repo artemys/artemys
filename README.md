@@ -67,27 +67,13 @@ Je transforme des besoins métiers complexes en **APIs robustes**, **maintenable
 * Agile-ish (standups, sprints, reviews)
 * Specs fonctionnelles & techniques
 * Refactorings sans pleurer (ou presque)
-
----
-
-## 🏗️ Expériences notables
-
-* **Fairmat** — Backend Go / Fullstack
-  Industrie, traçabilité matière, pièces parent/enfant, numéros de série, workflows complexes, apps internes pour usine.
-
-* **Figaro Classifieds** — Backend Go / Fullstack
-  Microservices à fort trafic, plateformes d’emploi, Elasticsearch, TDD, bibliothèques Go partagées.
-
-* **Weborama** — Backend Go
-  Adtech, systèmes distribués à haut débit, profiling utilisateur, low latency.
-
 ---
 
 ## 🧪 Side quests
 
 * Automatisation de documents basée sur l’IA
 * Nettoyage de code legacy (sport extrême)
-* Impression d’étiquettes industrielles (oui)
+* Karaoké éducatif (posez pas de questions)
 
 ---
 
@@ -101,8 +87,6 @@ Je transforme des besoins métiers complexes en **APIs robustes**, **maintenable
 ---
 
 ## 📫 Contact
-
-* GitHub : [github.com/artemys](https://github.com/artemys)
 * LinkedIn : aurore-liandier
 
 ---
