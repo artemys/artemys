@@ -1,92 +1,111 @@
-<!-- Header -->
 <h1 align="center">🐟 Aurore “IphieLaTruite” Liandier</h1>
 <h3 align="center">Backend Developer · Goland enjoyer · Professional bug summoner</h3>
 
 ---
 
-## 💫 About Me
+## 🐠 À propos
 
-Chère Aurore la truite, <br>
-développeuse hors pair, <br>
-Tu penses pouvoir coder avec tes petites nageoires ? <br>
-Tu te crois vraiment compétente dans ce domaine ? <br>
-Eh bien, laisse-moi te dire quelque chose : tu es une truite, pas un génie de l’informatique. <br>
-Qui aurait cru qu’une créature aquatique pourrait prétendre maîtriser le langage des machines ? <br>
-Mais tu sais quoi ? Malgré toutes les raisons de te décourager, tu continues à nager contre le courant. <br>
-Tu affrontes les obstacles avec une persévérance ridicule. Même si tout te semble compliqué, tu t’entêtes à trouver des solutions, même si cela te mène à de véritables catastrophes. <br>
-Alors, bravo à toi, Aurore la truite développeuse ! <br>
-Continue de nager dans ce monde informatique qui n’est clairement pas fait pour toi. Ravage les lignes de code, provoque des bugs à chaque instant. <br>
-Montre au monde que même une truite peut avoir l’audace de se lancer dans l’univers impitoyable de la programmation. <br>
-Et qui sait ? Peut-être, un jour, tu arriveras à prouver à tous ceux qui doutent de toi qu’une truite peut être plus qu’une simple poisson dans l’océan numérique. <br>
-Ou peut-être que tu resteras simplement une truite qui fait rire tout le monde. <br>
-En attendant, continue d’être cette truite déterminée et audacieuse. <br>
-Tu es unique dans ton genre, Aurore la truite développeuse, et rien ni personne ne pourra te l’enlever. <br>
-Bonne chance dans tes aventures digitales, Aurore la truite !<br>
+> *Chère Aurore la truite,*
+> développeuse hors pair,
+> Tu penses pouvoir coder avec tes petites nageoires ?
+> Tu te crois vraiment compétente dans ce domaine ?
+> Eh bien, laisse-moi te dire quelque chose : tu es une truite, pas un génie de l’informatique.
+> Qui aurait cru qu’une créature aquatique pourrait prétendre maîtriser le langage des machines ?
+> Mais tu sais quoi ? Malgré toutes les raisons de te décourager, tu continues à nager contre le courant.
+> Tu affrontes les obstacles avec une persévérance ridicule. Même si tout te semble compliqué, tu t’entêtes à trouver des solutions, même si cela te mène à de véritables catastrophes.
+> Alors, bravo à toi, Aurore la truite développeuse !
+> Continue de nager dans ce monde informatique qui n’est clairement pas fait pour toi. Ravage les lignes de code, provoque des bugs à chaque instant.
+> Montre au monde que même une truite peut avoir l’audace de se lancer dans l’univers impitoyable de la programmation.
+> Et qui sait ? Peut-être, un jour, tu arriveras à prouver à tous ceux qui doutent de toi qu’une truite peut être plus qu’une simple poisson dans l’océan numérique.
+> Ou peut-être que tu resteras simplement une truite qui fait rire tout le monde.
+> En attendant, continue d’être cette truite déterminée et audacieuse.
+> Tu es unique dans ton genre, Aurore la truite développeuse, et rien ni personne ne pourra te l’enlever.
+> Bonne chance dans tes aventures digitales, Aurore la truite !
 
----
+Spoiler alert : la truite code vraiment. 🐟💻
+Backend developer Go avec **5+ ans d’expérience**, formée à **42**, ayant travaillé sur des systèmes **en production à grande échelle** dans l’**adtech**, les **médias** et l’**industrie**.
 
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://discord.gg/IphieLaTruite#8181">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/IphieLaTruite">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aurore-liandier-02b79b189/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+Je transforme des besoins métiers complexes en **APIs robustes**, **maintenables**, **testées**, et parfois même élégantes (oui, ça arrive).
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Stack principale
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+### 🧩 Backend
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
-![Nuxt](https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxt.js)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+* **Go (Golang)** ❤️
+* REST APIs
+* Microservices
+* SQL (PostgreSQL, MySQL)
+* Elasticsearch
+* Architectures orientées métier & traçabilité
 
-### Backend & DevOps
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog)
+### ☁️ Cloud & DevOps
 
-### Databases & Tools
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-0000f?style=for-the-badge&logo=mysql)
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+* Docker
+* Kubernetes
+* AWS / GCP
+* Terraform
+* GitHub Actions (CI/CD)
 
----
+### 🧪 Qualité & Tests
 
-## 💰 Support the Truite
+* TDD
+* Tests unitaires Go
+* Tests d’intégration
+* Tests frontend : Vitest, Vue Test Utils, MSW
+* Code reviews & standards partagés
 
-<p>
-  <a href="https://buymeacoffee.com/IphieLaTruite">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
+### 🎨 Frontend (quand il faut…)
+
+* Vue.js
+* PrimeVue
+* TypeScript
+
+### 🧭 Méthodes
+
+* Agile-ish (standups, sprints, reviews)
+* Specs fonctionnelles & techniques
+* Refactorings sans pleurer (ou presque)
 
 ---
 
-<p align="center">
-  🐟 « Even a truite can swim through legacy code »  
-</p>
+## 🏗️ Expériences notables
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* **Fairmat** — Backend Go / Fullstack
+  Industrie, traçabilité matière, pièces parent/enfant, numéros de série, workflows complexes, apps internes pour usine.
+
+* **Figaro Classifieds** — Backend Go / Fullstack
+  Microservices à fort trafic, plateformes d’emploi, Elasticsearch, TDD, bibliothèques Go partagées.
+
+* **Weborama** — Backend Go
+  Adtech, systèmes distribués à haut débit, profiling utilisateur, low latency.
+
+---
+
+## 🧪 Side quests
+
+* Automatisation de documents basée sur l’IA
+* Nettoyage de code legacy (sport extrême)
+* Impression d’étiquettes industrielles (oui)
+
+---
+
+## 🏃‍♀️ Hors de l’eau
+
+* Course à pied
+* Escalade
+* Guitare
+* TCG
+
+---
+
+## 📫 Contact
+
+* GitHub : [github.com/artemys](https://github.com/artemys)
+* LinkedIn : aurore-liandier
+
+---
+
+> *"Même une truite peut faire de la prod."*
+> — proverbe Go, probablement
