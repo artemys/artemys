@@ -40,13 +40,11 @@ Je transforme des besoins métiers complexes en **APIs robustes**, **maintenable
 * Elasticsearch
 * Architectures orientées métier & traçabilité
 
-### ☁️ Cloud & DevOps
+### 🎨 Frontend (quand il faut…)
 
-* Docker
-* Kubernetes
-* AWS / GCP
-* Terraform
-* GitHub Actions (CI/CD)
+* Vue.js
+* PrimeVue
+* TypeScript
 
 ### 🧪 Qualité & Tests
 
@@ -56,17 +54,20 @@ Je transforme des besoins métiers complexes en **APIs robustes**, **maintenable
 * Tests frontend : Vitest, Vue Test Utils, MSW
 * Code reviews & standards partagés
 
-### 🎨 Frontend (quand il faut…)
-
-* Vue.js
-* PrimeVue
-* TypeScript
-
 ### 🧭 Méthodes
 
 * Agile-ish (standups, sprints, reviews)
 * Specs fonctionnelles & techniques
 * Refactorings sans pleurer (ou presque)
+
+### ☁️ Cloud & DevOps (Moins calé ici)
+
+* Docker
+* Kubernetes
+* AWS / GCP
+* Terraform
+* GitHub Actions (CI/CD)
+  
 ---
 
 ## 🧪 Side quests
