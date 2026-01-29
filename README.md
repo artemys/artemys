@@ -1,4 +1,4 @@
-<h1 align="center">🐟 Aurore “IphieLaTruite” Liandier</h1>
+<h1 align="center">🐟 Aurore “IphieLaTruite” Liandier <span style="display:inline-block; transform: scaleX(-1);">🐟</span></h1>
 <h3 align="center">Backend Developer · Goland enjoyer · Professional bug summoner</h3>
 
 ---
